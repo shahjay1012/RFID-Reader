@@ -108,7 +108,7 @@ Its rugged, IP‑rated construction supports continuous operation even in harsh 
 
 ---
 
-## 👤 Author
-**Jaykumar Shah**
-📧 shahjay1012@gmail.com
-🔗 [LinkedIn] | [GitHub]
+## Author
+**Jaykumar Shah**  
+📧 shahjay1012@gmail.com  
+🔗 [[LinkedIn](https://www.linkedin.com/in/jay-shah-64b98078/)] | [[GitHub](https://github.com/shahjay1012)]
